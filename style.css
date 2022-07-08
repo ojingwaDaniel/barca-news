@@ -1,0 +1,32 @@
+nav{
+  background-color:darkblue;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  overflow: auto;
+  color: aliceblue;
+
+}
+li{
+  display:inline-block;
+  padding: 2px;
+  text-align: center;
+  margin-left: 200px;
+
+ 
+}
+li a:hover{
+  background-color: yellow;
+}
+.img{
+  width: 80%;
+  margin-top: 20px;
+  height: 60%;
+  padding-left: 50px;
+  
+
+}
+body{
+  font-size: 20px;s
+}
